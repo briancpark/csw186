@@ -1,0 +1,21 @@
+[submodule "proj/proj0"]
+	path = proj/proj0
+	url = https://github.com/briancpark/csw186-proj0.git
+[submodule "proj/proj1"]
+	path = proj/proj1
+	url = https://github.com/briancpark/csw186-proj1.git
+[submodule "proj/proj2"]
+	path = proj/proj2
+	url = https://github.com/briancpark/csw186-proj2.git
+[submodule "proj/proj3"]
+	path = proj/proj3
+	url = https://github.com/briancpark/csw186-proj3.git
+[submodule "proj/proj4"]
+	path = proj/proj4
+	url = https://github.com/briancpark/csw186-proj4.git
+[submodule "proj/proj5"]
+	path = proj/proj5
+	url = https://github.com/briancpark/csw186-proj5.git
+[submodule "proj/proj6"]
+	path = proj/proj6
+	url = https://github.com/briancpark/csw186-proj6.git
